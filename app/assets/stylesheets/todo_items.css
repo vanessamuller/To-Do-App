@@ -1,0 +1,46 @@
+html{
+  background-color: lightseagreen;
+  text-align: center;
+  margin: 0 auto;
+}
+
+body{
+  background-color: #f5f5f5;
+  width: 600px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+h1 {
+  color:white;
+}
+
+table td
+{
+    padding: 14px;
+    padding-left: 3px;
+    font-size: 20px;
+    border-bottom: 1px solid lightskyblue;
+    border-right: 2px solid red;
+}
+
+th.target{
+  border-right: 2px solid red;
+  border-bottom: 2px solid skyblue;
+}
+
+.target1
+{
+    border-left: 1px solid #F4C8C8;
+    border-bottom: 1px solid #F4C8C8;
+}
+
+.btn-default{
+  margin-left: 3rem;
+  margin-top: 1rem;
+}
+
+button{
+  margin-bottom: 1rem;
+  background: white;
+}
